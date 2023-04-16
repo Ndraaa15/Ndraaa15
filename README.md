@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently a CS (Computer Science) student at Brawijaya University<br>🤝 I’m looking for help with anyone<br>🌱 I’m currently learning Go, PHP, Java, and many more<br>💬 Ask me about tech<br>⚡ Weebz
+✌ Hi, I'm Indra <br>
+🔭 I’m currently a CS (Computer Science) student at Brawijaya University<br>🤝 I’m looking for help with anyone<br>🌱 I’m currently learning Go, PHP, Java, and many more<br>💬 Ask me about anything<br>⚡ Weebz
 
 
 ## 🌐 Socials:
