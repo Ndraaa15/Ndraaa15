@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indra</h1>
-<h3 align="center">A passionate student who always curious about anything.</h3>
-<p align="center"> 🔭 I’m currently study on Brawijaya University </p>
-<p align="center"> 🌱 I’m currently learning Go, Java, PHP, JS, and many more.. </p>
-<p align="center"> 👯 I’m looking to collaborate with Anyone:D </p>
-<p align="center"> 💬 Ask me about Software Engineering, Data Science, and IT Stuff </p>
-<p align="center"> 📫 How to reach me indrabrata599@gmail.com </p>
-<p align="center"> ⚡ Fun fact weeb (?) </p>
+
+<p align="center"> "I'm a passionate student at Brawijaya University, on a journey to master Go, Java, PHP, JavaScript, and more. Eager to collaborate with anyone, I thrive in the world of Software Engineering, Data Science, and all things IT. Feel free to reach out at indrabrata599@gmail.com. Oh, and did I mention I'm a proud weeb? 🌱👩‍💻📫🎌" </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
