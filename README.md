@@ -1,6 +1,5 @@
 ## 🤓 About Me
-
-<img src="https://media.giphy.com/media/qb1eHxhUHLdsc/giphy.gif" text-align="center" width=300>
+![Killua](https://media.giphy.com/media/qb1eHxhUHLdsc/giphy.gif)
 
 <h3 align="center">
 Hi, I'm Indra
