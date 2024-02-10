@@ -1,9 +1,12 @@
 ## 🤓 About Me
-<img src="./assets/killua-hunter-x-hunter.gif" width="300px" text-align="center"/>
+
+<div id="header" align="center">
+    <img src="./assets/killua-hunter-x-hunter.gif" width="300px" text-align="center"/>
+</div>
 
 <h3 align="center">
 Hi, I'm Indra
-<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="20px"/>
+<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="15px"/>
 </h3>
 
 🏫 &nbsp;Passionate student at Brawijaya University majoring Informatics Engineering </br>
