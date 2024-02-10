@@ -1,9 +1,9 @@
 ## 🤓 About Me
-![Killua](https://media.giphy.com/media/qb1eHxhUHLdsc/giphy.gif)
+<img src="./assets/killua-hunter-x-hunter.gif" width="300px" text-align="center"/>
 
 <h3 align="center">
 Hi, I'm Indra
-<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px"/>
+<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="20px"/>
 </h3>
 
 🏫 &nbsp;Passionate student at Brawijaya University majoring Informatics Engineering </br>
