@@ -1,8 +1,6 @@
 ## 🤓 About Me
 
-<div id="header" align="center">
-    <img src="./assets/killua-hunter-x-hunter.gif" width="300px" text-align="center"/>
-</div>
+
 
 <h3 align="center">
 Hi, I'm Indra
