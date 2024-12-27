@@ -80,7 +80,7 @@ Hi, I'm Indra
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Arch Badge">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Alpine Badge">
-    <img src="https://img.shields.io/badge/hoppscotch-002721?style=for-the-badge&logo=hoppscotch&logoColor=00d79f" alt="Alpine Badge">
+    <img src="https://img.shields.io/badge/hoppscotch-002721?style=for-the-badge&logo=hoppscotch&logoColor=00d79f" alt="Hoppscoch Badge">
     
   </td>
 </tr>
@@ -90,7 +90,9 @@ Hi, I'm Indra
   </td>
   <td>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Graph Badge">
-    <p>gRPC</p>
+    <img src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png" alt="gRPC" width="70" >
+
+
   </td>
 </tr>
 </table>
@@ -99,7 +101,7 @@ Hi, I'm Indra
 You can reach me in platform below :
 
 <a href="https://www.instagram.com/lndra.a/">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)</a>
-<a href="https://www.linkedin.com/in/indra15/">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)</a>
+<a href="https://www.linkedin.com/in/indrabrata/">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)</a>
 <a href="mailto:indrabrata599@gmail.com">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.hackerrank.com/muffinCupcake">![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)</a>
 
